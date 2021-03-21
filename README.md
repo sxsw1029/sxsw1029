@@ -11,8 +11,11 @@
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/javascript/javascript-original.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/typescript/typescript-original.svg"></code>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sxsw1029)](https://github.com/sxsw1029)
 
 ![Sxsw's github stats](https://github-readme-stats.vercel.app/api/?username=sxsw1029&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+[![sxsw.vercel.app](https://github-readme-stats.vercel.app/api/pin/?username=sxsw1029&repo=sxsw.vercel.app)](https://github.com/sxsw1029/sxsw.vercel.app)
 
 <!--
 **sxsw1029/sxsw1029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
