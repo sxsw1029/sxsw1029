@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning computer sciences
+- 🌱 I’m currently learning Computer Science
 
 **Languages and Tools:**
 
