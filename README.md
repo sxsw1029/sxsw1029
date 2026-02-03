@@ -13,16 +13,6 @@
 <code><img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"></code>  
 <code><img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
 
-<div>
-  <a href="https://github.com/sxsw1029">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxsw1029&layout=compact">
-  </a>
-</div>
+![Stats](./profile/stats.svg)
 
-<br>
-
-<div>
-  <a href="https://github.com/sxsw1029">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=sxsw1029&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
-  </a>
-</div>
+![Top Languages](./profile/top-langs.svg)
