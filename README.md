@@ -13,6 +13,6 @@
 <code><img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"></code>  
 <code><img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
 
-![Stats](./profile/stats.svg)
+<img src="./profile/stats.svg">
 
-![Top Languages](./profile/top-langs.svg)
+<img src="./profile/top-langs.svg">
