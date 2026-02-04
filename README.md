@@ -13,10 +13,13 @@
 <code><img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" /></code>  
 <code><img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /></code>
 
+---
+
 <a href="https://github.com/sxsw1029">
   <img src="./profile/stats.svg" />
 </a>
 
+<br />
 <br />
 
 <a href="https://github.com/sxsw1029">
